@@ -12,6 +12,9 @@ public class Soda {
 
 
 
+  public Soda(){
+    this.additive = "Обычная газировака";
+  }
 
 
 
@@ -20,6 +23,7 @@ public class Soda {
 
 
 }
+
 
 
 
